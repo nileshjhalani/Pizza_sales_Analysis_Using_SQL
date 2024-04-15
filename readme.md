@@ -13,4 +13,5 @@ Insights
 12. Analyze the cumulative revenue generated over time.
 13. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
-![pizza-pizza-filled-with-tomatoes-salami-olives](https://github.com/nileshjhalani/Pizza_sales_Analysis_Using_SQL/assets/115102638/ad67f581-7cab-4309-8c92-4d601fc7718a)
+
+![pizza-pizza-filled-with-tomatoes-salami-olives](https://github.com/nileshjhalani/Pizza_sales_Analysis_Using_SQL/assets/115102638/c65b7b53-29fe-4eb2-9991-d0b18b9bc4e8)
